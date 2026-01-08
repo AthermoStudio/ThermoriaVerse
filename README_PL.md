@@ -1,4 +1,6 @@
 # ThermoriaVerse
+[English](./README.md)
+
 **Gra sandbox we wczesnej fazie rozwoju, skupiona na eksploracji nieskończonego świata, progresji postaci i osiągnięciach, tworzona w C#.**
 
 > **Uwaga:**  
