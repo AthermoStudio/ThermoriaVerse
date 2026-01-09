@@ -14,6 +14,12 @@ Każda decyzja niesie konsekwencje — możesz stać się ich wybawcą albo nisz
 Proceduralne generowanie świata, biomy i roślinność, dynamiczny system chunków oraz optymalizacja GPU, to wszystko sprawia, że gra działa płynnie nawet w ogromnych, złożonych krainach, z dużym zasięgiem renderu.
 **ThermoriaVerse** — twórz własne multiversum.
 
+**Wizja Gry**
+
+Podstawowa koncepcja rozgrywki i postęp prac są już ustalone.
+Obecnie rozwój skupia się na tworzeniu zaplanowanych doświadczeń dla graczy.
+#
+
 Launcher startowy: [AthermoBase Launcher](https://github.com/MarcinDoga/AthermoBase)
 
 > **Uwaga:**  
