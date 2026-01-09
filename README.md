@@ -3,6 +3,8 @@
 
 **A work-in-progress sandbox game focused on exploration, progression, and achievements, built in C#.**
 
+Official Launcher: [AthermoBase Launcher](https://github.com/MarcinDoga/AthermoBase)
+
 > **Note:**  
 > This project is in early development.  
 > There is currently no planned release date,  
