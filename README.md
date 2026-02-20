@@ -16,10 +16,41 @@ Every decision has consequences—you can become their savior or their destroyer
 ## Game Vision
 The basic gameplay concept and progress are already established.
 Currently, development is focused on creating the planned experiences for players.
-#
 
+## System requirements
+
+### Minimum requirements
+
+- Operating System: **Windows 10 - 64 bit / Windows 11 - 64 bit**
+- Processor: **Intel Core 2 Duo E4400 / AMD E2-6110**
+- Memory: **4 GB RAM**
+- Graphics: **NVIDIA GeForce 9300M / AMD Radeon 530**
+- Network: **Persistent broadband internet connection**
+- Storage: **5GB available space**
+- Sound Card: **DirectX compatible**
+
+### Recommended requirements
+
+- Operating System: **Windows 11 - 64 bit**
+- Processor: **Intel Core i3-8100 / AMD Ryzen 3 2200G**
+- Memory: **8 GB RAM**
+- Graphics: **NVIDIA GeForce GTX 650 2GB / AMD Radeon R7 2GB**
+- Network: **Persistent broadband internet connection**
+- Storage: **8GB available space**
+- Sound Card: **DirectX compatible**
+
+## Installation
+
+1. Installer [AthermoBase Launcher](https://github.com/AthermoStudio/AthermoBase)
+
+## License
+This project is licensed under the Limited Usage License - see the [LICENSE](./LICENSE) file for details.
+
+## Contact
+
+e-mail: **AthermoBase@int.pl**
 Launcher: [AthermoBase Launcher](https://github.com/AthermoStudio/AthermoBase)
-
+#
 > **Note:**  
 > This project is in early development.  
 > There is currently no planned release date,  
