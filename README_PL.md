@@ -17,7 +17,6 @@ Proceduralne generowanie świata, biomy i roślinność, dynamiczny system chunk
 ## Wizja Gry
 Podstawowa koncepcja rozgrywki i postęp prac są już ustalone.
 Obecnie rozwój skupia się na tworzeniu zaplanowanych doświadczeń dla graczy.
-#
 
 ## Wymagania systemowe
 
