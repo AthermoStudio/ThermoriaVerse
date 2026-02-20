@@ -19,8 +19,40 @@ Podstawowa koncepcja rozgrywki i postęp prac są już ustalone.
 Obecnie rozwój skupia się na tworzeniu zaplanowanych doświadczeń dla graczy.
 #
 
-Launcher startowy: [AthermoBase Launcher](https://github.com/AthermoStudio/AthermoBase)
+## Wymagania systemowe
 
+### Minimalne wymagania
+
+- System Operacyjny: **Windows 10 - 64 bit / Windows 11 - 64 bit**
+- Procesor: **Intel Core 2 Duo E4400 / AMD E2-6110**
+- Pamięć: **4 GB RAM**
+- Karta Graficzna: **NVIDIA GeForce 9300M / AMD Radeon 530**
+- Sieć: **Stałe szerokopasmowe połączenie z Internetem**
+- Pamięć: **5 GB dostępnej przestrzeni**
+- Karta dźwiękowa: **kompatybilna z DirectX**
+
+### Zalecane wymagania
+
+- System Operacyjny: **Windows 11 - 64 bit**
+- Procesor: **Intel Core i3-8100 / AMD Ryzen 3 2200G**
+- Pamięć: **8 GB RAM**
+- Karta Graficzna: **NVIDIA GeForce GTX 650 2GB / AMD Radeon R7 2GB**
+- Sieć: **Stałe szerokopasmowe połączenie z Internetem**
+- Pamięć: **8 GB dostępnej przestrzeni**
+- Karta dźwiękowa: **kompatybilna z DirectX**
+
+
+## Instalacja
+
+1. Instalator [AthermoBase Launcher]()
+
+## Licencja
+Ten projekt jest licencjonowany na podstawie licencji Limited Usage License - szczegółowe informacje można znaleźć w pliku [LICENSE](./LICENSE).
+
+## Kontakt
+e-mail: **AthermoBase@int.pl**
+Launcher startowy: [AthermoBase Launcher](https://github.com/AthermoStudio/AthermoBase)
+#
 > **Uwaga:**  
 > Projekt znajduje się na wczesnym etapie rozwoju.  
 > Obecnie nie ma zaplanowanej daty premiery,  
