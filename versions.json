@@ -1,0 +1,14 @@
+{
+  "Alpha": {
+    "Version": "0.0.2",
+    "Url": "https://github.com/AthermoStudio/ThermoriaVerse/releases/download/v0.0.2-alpha/ThermoriaVerse.zip"
+  },
+  "Beta": {
+    "Version": "0.0.0",
+    "Url": ""
+  },
+  "Release": {
+    "Version": "0.0.0",
+    "Url": ""
+  }
+}
