@@ -43,7 +43,7 @@ Obecnie rozwój skupia się na tworzeniu zaplanowanych doświadczeń dla graczy.
 
 ## Instalacja
 
-1. Instalator [AthermoBase Launcher]()
+1. Instalator [AthermoBase Installer](https://github.com/AthermoStudio/Installer)
 
 ## Licencja
 Ten projekt jest licencjonowany na podstawie licencji Limited Usage License - szczegółowe informacje można znaleźć w pliku [LICENSE](./LICENSE).
