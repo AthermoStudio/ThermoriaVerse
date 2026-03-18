@@ -52,7 +52,8 @@ e-mail: **AthermoBase@int.pl**
 Launcher: [AthermoBase Launcher](https://github.com/AthermoStudio/AthermoBase)
 
 ## Creators
-@Marcin_Doga, @TokioGamesMaster
+
+[MarcinDoga](https://github.com/MarcinDoga), [TokioGamesMaster](https://github.com/TokioGamesMaster)
 #
 > **Note:**  
 > This project is in early development.  
