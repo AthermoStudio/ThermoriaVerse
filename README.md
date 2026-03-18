@@ -50,6 +50,9 @@ This project is licensed under the Limited Usage License - see the [LICENSE](./L
 
 e-mail: **AthermoBase@int.pl**
 Launcher: [AthermoBase Launcher](https://github.com/AthermoStudio/AthermoBase)
+
+## Creators
+@Marcin_Doga, @TokioGamesMaster
 #
 > **Note:**  
 > This project is in early development.  
