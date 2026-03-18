@@ -51,6 +51,11 @@ Ten projekt jest licencjonowany na podstawie licencji Limited Usage License - sz
 ## Kontakt
 e-mail: **AthermoBase@int.pl**
 Launcher startowy: [AthermoBase Launcher](https://github.com/AthermoStudio/AthermoBase)
+
+## Twórcy
+
+[MarcinDoga](https://github.com/MarcinDoga), [TokioGamesMaster](https://github.com/TokioGamesMaster)
+
 #
 > **Uwaga:**  
 > Projekt znajduje się na wczesnym etapie rozwoju.  
