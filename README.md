@@ -1,5 +1,6 @@
 # ThermoriaVerse
-[Polski](./README_PL.md)
+[Polski](./README_PL.md)|
+[Wiki](https://github.com/AthermoStudio/ThermoriaVerse/wiki)
 
 **A work-in-progress sandbox game focused on exploration, progression, and achievements, built in C#.**
 
