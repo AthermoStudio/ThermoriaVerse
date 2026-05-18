@@ -1,5 +1,6 @@
 # ThermoriaVerse
-[English](./README.md)
+[English](./README.md)|
+[Wiki](https://github.com/AthermoStudio/ThermoriaVerse/wiki)
 
 **Gra sandbox we wczesnej fazie rozwoju, skupiona na eksploracji nieskończonego świata, progresji postaci i osiągnięciach, tworzona w C#.**
 
